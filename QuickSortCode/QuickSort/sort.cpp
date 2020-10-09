@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
-/*½»»»º¯Êı*/
+/*äº¤æ¢å‡½æ•°*/
 void swap(int* array, int i, int j) {
 	int temp = array[i];
 	array[i] = array[j];
 	array[j] = temp;
 }
-/*»ù×¼Öµº¯Êı*/
+/*åŸºå‡†å€¼å‡½æ•°*/
 int partion(int* array, int begin, int end) {
 	int key = array[begin];
 	int start = begin;
