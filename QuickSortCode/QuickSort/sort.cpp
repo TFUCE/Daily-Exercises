@@ -20,7 +20,7 @@ int partion(int* array, int begin, int end) {
 	swap(array, start, end);
 	return begin;
 }
-
+/*快排函数*/
 void quicksort(int* array, int begin, int end) {
 	if (begin >= end)
 		return;
@@ -28,7 +28,7 @@ void quicksort(int* array, int begin, int end) {
 	quicksort(array, begin, keypos - 1);
 	quicksort(array, keypos+1, end);
 }
-
+/*主函数*/
 int main() {
 	int n;
 	cin >>n;
