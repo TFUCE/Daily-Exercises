@@ -1,0 +1,2 @@
+E:\Daily-Exercises\DFS\Debug\DFS.exe
+E:\Daily-Exercises\DFS\Debug\DFS.pdb
