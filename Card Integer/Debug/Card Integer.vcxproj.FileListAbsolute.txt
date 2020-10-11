@@ -1,0 +1,2 @@
+E:\Daily-Exercises\Card Integer\Debug\Card Integer.exe
+E:\Daily-Exercises\Card Integer\Debug\Card Integer.pdb

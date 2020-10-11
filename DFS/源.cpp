@@ -1,3 +1,4 @@
+/*输入一个数n，输出1~n的全排列,n要在2~9内选择*/
 #include<iostream>
 using namespace std;
 int a[10], book[10], n;
